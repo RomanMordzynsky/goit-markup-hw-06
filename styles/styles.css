@@ -871,8 +871,7 @@ img {
     height: 44px;
 }
 
-.footlink:hover,
-.footlink:focus {
+.footlink:hover {
     background-color: var(--accent-color);
 }
 
