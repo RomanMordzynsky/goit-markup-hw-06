@@ -986,7 +986,6 @@ img {
 
 .contact-form-field {
     display: block;
-    margin-bottom: 10px;
 }
 
 .contact-form-input-wrapper {
@@ -1031,6 +1030,7 @@ img {
     height: 120px;
     resize: none;
     margin-top: 4px;
+    margin-bottom: 20px;
     padding: 16px 12px;
     border: 1px solid var(--input-border-color);
     border-radius: 4px;
@@ -1092,6 +1092,10 @@ img {
     background-color: var(--accent-color);
 }
 
+.checkbox-link {
+    color: var(--accent-color);
+}
+
 .contact-form-submit-btn {
     display: block;
     width: 200px;
@@ -1127,7 +1131,7 @@ img {
 
 .subscribe-block {
     display: block;
-    margin-left: 93px;
+    margin-left: auto;
 
 }
 
